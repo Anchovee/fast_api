@@ -1,0 +1,5 @@
+###shell script
+
+uvicorn main:app --reload ##reruns web server
+
+###in shell type "chmod +x run" "./run"
